@@ -1,0 +1,25 @@
+min-players: 3
+max-players: 12
+countdown-seconds: 10
+description-time-seconds: 60
+discussion-time-seconds: 60
+voting-time-seconds: 30
+max-rounds-before-force-vote: 5
+
+arena:
+  lobby-location: world,0,64,0
+  game-location: world,100,64,100
+
+messages:
+  prefix: "&8[&bWhoIsLying&8] "
+  impostor-color: "&c"
+  investigator-color: "&a"
+
+rewards:
+  investigator-win-xp: 50
+  impostor-hide-xp: 100
+  impostor-guess-xp: 150
+
+word-filter:
+  enabled: true
+  warn-message: "&cLu nggak boleh nyebutkan kata rahasia secara langsung ya"

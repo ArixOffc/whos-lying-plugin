@@ -1,0 +1,44 @@
+name: WhoIsLying
+version: 1.0.0
+main: com.arixoffc.whoislying.WhoIsLying
+api-version: 1.21
+description: Social deduction game - siapa yang berbohong?
+author: ArixOffc
+website: https://github.com/ArixOffc
+
+commands:
+  regis:
+    description: Daftarkan player ke game
+    usage: /regis <nama>
+  unregis:
+    description: Hapus player dari daftar
+    usage: /unregis <nama>
+  listplayer:
+    description: Lihat daftar player terdaftar
+    usage: /listplayer
+  listscore:
+    description: Lihat leaderboard
+    usage: /listscore
+  start:
+    description: Mulai game
+    usage: /start
+  nextround:
+    description: Mulai ronde baru
+    usage: /nextround
+  endgame:
+    description: Akhiri game
+    usage: /endgame
+  resetgame:
+    description: Reset game (emergency)
+    usage: /resetgame
+  skip:
+    description: Skip giliran player saat ini
+    usage: /skip
+  vote:
+    description: Vote pemain saat fase voting
+    usage: /vote <nama>
+
+permissions:
+  whoislying.admin:
+    description: Izin admin untuk mengelola game
+    default: op

@@ -1,0 +1,482 @@
+categories:
+
+  Passive Mob:
+    - Cow
+    - Pig
+    - Sheep
+    - Chicken
+    - Horse
+    - Donkey
+    - Mule
+    - Rabbit
+    - Bat
+    - Squid
+    - Glow Squid
+    - Axolotl
+    - Allay
+    - Sniffer
+    - Camel
+    - Armadillo
+    - Cod
+    - Salmon
+    - Tropical Fish
+    - Pufferfish
+    - Frog
+    - Tadpole
+    - Turtle
+    - Bee
+    - Villager
+    - Wandering Trader
+    - Strider
+
+  Hostile Mob:
+    - Zombie
+    - Skeleton
+    - Creeper
+    - Spider
+    - Cave Spider
+    - Enderman
+    - Witch
+    - Blaze
+    - Ghast
+    - Slime
+    - Magma Cube
+    - Drowned
+    - Husk
+    - Stray
+    - Phantom
+    - Pillager
+    - Vindicator
+    - Evoker
+    - Ravager
+    - Vex
+    - Guardian
+    - Elder Guardian
+    - Shulker
+    - Silverfish
+    - Endermite
+    - Warden
+    - Breeze
+    - Bogged
+    - Hoglin
+    - Piglin Brute
+
+  Boss:
+    - Ender Dragon
+    - Wither
+    - Elder Guardian
+
+  Ore and Mineral:
+    - Coal
+    - Iron
+    - Copper
+    - Gold
+    - Redstone
+    - Lapis Lazuli
+    - Diamond
+    - Emerald
+    - Quartz
+    - Amethyst
+    - Ancient Debris
+    - Netherite
+    - Gravel
+    - Flint
+    - Obsidian
+    - Crying Obsidian
+    - Glowstone
+
+  Building Block:
+    - Stone
+    - Cobblestone
+    - Granite
+    - Diorite
+    - Andesite
+    - Sandstone
+    - Bricks
+    - Stone Bricks
+    - Mossy Cobblestone
+    - Mud Bricks
+    - Deepslate
+    - Calcite
+    - Tuff
+    - Basalt
+    - Blackstone
+    - Nether Bricks
+    - End Stone
+    - Prismarine
+    - Terracotta
+    - Concrete
+    - Glass
+    - Hay Bale
+    - Snow Block
+    - Ice
+    - Packed Ice
+    - Blue Ice
+    - Sponge
+    - Honeycomb Block
+    - Chiseled Stone Bricks
+    - Cracked Stone Bricks
+
+  Wood Type:
+    - Oak
+    - Spruce
+    - Birch
+    - Jungle
+    - Acacia
+    - Dark Oak
+    - Mangrove
+    - Cherry
+    - Bamboo
+    - Crimson
+    - Warped
+    - Pale Oak
+
+  Weapon and Tool:
+    - Wooden Sword
+    - Stone Sword
+    - Iron Sword
+    - Golden Sword
+    - Diamond Sword
+    - Netherite Sword
+    - Bow
+    - Crossbow
+    - Trident
+    - Wooden Pickaxe
+    - Stone Pickaxe
+    - Iron Pickaxe
+    - Diamond Pickaxe
+    - Netherite Pickaxe
+    - Axe
+    - Shovel
+    - Hoe
+    - Flint and Steel
+    - Fishing Rod
+    - Shears
+    - Shield
+    - Mace
+
+  Armor:
+    - Leather Helmet
+    - Leather Chestplate
+    - Leather Leggings
+    - Leather Boots
+    - Iron Helmet
+    - Iron Chestplate
+    - Iron Leggings
+    - Iron Boots
+    - Golden Helmet
+    - Diamond Helmet
+    - Diamond Chestplate
+    - Diamond Leggings
+    - Diamond Boots
+    - Netherite Helmet
+    - Netherite Chestplate
+    - Netherite Leggings
+    - Netherite Boots
+    - Turtle Shell
+    - Elytra
+    - Chain Helmet
+
+  Enchantment:
+    - Sharpness
+    - Smite
+    - Bane of Arthropods
+    - Knockback
+    - Fire Aspect
+    - Looting
+    - Sweeping Edge
+    - Efficiency
+    - Silk Touch
+    - Fortune
+    - Power
+    - Punch
+    - Flame
+    - Infinity
+    - Protection
+    - Blast Protection
+    - Fire Protection
+    - Projectile Protection
+    - Feather Falling
+    - Respiration
+    - Aqua Affinity
+    - Thorns
+    - Depth Strider
+    - Frost Walker
+    - Mending
+    - Unbreaking
+    - Channeling
+    - Riptide
+    - Impaling
+    - Loyalty
+    - Multishot
+    - Piercing
+    - Quick Charge
+    - Soul Speed
+    - Swift Sneak
+    - Curse of Binding
+    - Curse of Vanishing
+    - Wind Burst
+    - Density
+    - Breach
+
+  Food:
+    - Bread
+    - Apple
+    - Golden Apple
+    - Enchanted Golden Apple
+    - Steak
+    - Cooked Chicken
+    - Cooked Porkchop
+    - Cooked Mutton
+    - Cooked Rabbit
+    - Cooked Salmon
+    - Cooked Cod
+    - Baked Potato
+    - Cake
+    - Cookie
+    - Pumpkin Pie
+    - Mushroom Stew
+    - Beetroot Soup
+    - Rabbit Stew
+    - Suspicious Stew
+    - Honey Bottle
+    - Melon Slice
+    - Carrot
+    - Potato
+    - Beetroot
+    - Sweet Berries
+    - Glow Berries
+    - Dried Kelp
+
+  Overworld Biome:
+    - Plains
+    - Forest
+    - Birch Forest
+    - Dark Forest
+    - Jungle
+    - Bamboo Jungle
+    - Desert
+    - Savanna
+    - Badlands
+    - Taiga
+    - Snowy Taiga
+    - Snowy Plains
+    - Ice Spikes
+    - Meadow
+    - Stony Peaks
+    - Jagged Peaks
+    - Grove
+    - Swamp
+    - Mangrove Swamp
+    - Beach
+    - Ocean
+    - Deep Ocean
+    - Warm Ocean
+    - Frozen Ocean
+    - River
+    - Mushroom Fields
+    - Cherry Grove
+    - Pale Garden
+    - Lush Caves
+    - Dripstone Caves
+    - Deep Dark
+
+  Nether Biome:
+    - Nether Wastes
+    - Soul Sand Valley
+    - Crimson Forest
+    - Warped Forest
+    - Basalt Deltas
+
+  Structure:
+    - Village
+    - Desert Temple
+    - Jungle Temple
+    - Witch Hut
+    - Ocean Monument
+    - Stronghold
+    - Mineshaft
+    - Dungeon
+    - Pillager Outpost
+    - Woodland Mansion
+    - Ruined Portal
+    - Buried Treasure
+    - Shipwreck
+    - Igloo
+    - Ocean Ruins
+    - Nether Fortress
+    - Bastion Remnant
+    - End City
+    - End Ship
+    - Ancient City
+    - Trail Ruins
+    - Trial Chamber
+
+  Special Item:
+    - Ender Pearl
+    - Eye of Ender
+    - Nether Star
+    - Blaze Rod
+    - Ghast Tear
+    - Magma Cream
+    - Fermented Spider Eye
+    - Slimeball
+    - Prismarine Shard
+    - Nautilus Shell
+    - Heart of the Sea
+    - Phantom Membrane
+    - Shulker Shell
+    - Dragon Egg
+    - Beacon
+    - Conduit
+    - Totem of Undying
+    - Trident
+    - Elytra
+    - Nether Brick
+    - Echo Shard
+    - Amethyst Shard
+    - Spyglass
+    - Bundle
+    - Goat Horn
+    - Wind Charge
+    - Breeze Rod
+    - Ominous Bottle
+
+  Utility and Redstone:
+    - Chest
+    - Ender Chest
+    - Shulker Box
+    - Crafting Table
+    - Furnace
+    - Blast Furnace
+    - Smoker
+    - Anvil
+    - Enchanting Table
+    - Grindstone
+    - Smithing Table
+    - Cartography Table
+    - Loom
+    - Stonecutter
+    - Lectern
+    - Barrel
+    - Hopper
+    - Dropper
+    - Dispenser
+    - Piston
+    - Sticky Piston
+    - Observer
+    - Comparator
+    - Repeater
+    - Lever
+    - Pressure Plate
+    - Button
+    - Tripwire Hook
+    - Daylight Detector
+    - Trapped Chest
+    - TNT
+    - Redstone Lamp
+    - Note Block
+    - Jukebox
+    - Beacon
+    - Brewing Stand
+    - Cauldron
+    - Bell
+    - Campfire
+    - Soul Campfire
+    - Lodestone
+    - Respawn Anchor
+    - Bed
+    - Torch
+    - Soul Torch
+    - Lantern
+    - Soul Lantern
+
+  Nature:
+    - Oak Sapling
+    - Spruce Sapling
+    - Cactus
+    - Sugar Cane
+    - Bamboo
+    - Kelp
+    - Sea Grass
+    - Lily Pad
+    - Mushroom
+    - Crimson Fungus
+    - Warped Fungus
+    - Nether Wart
+    - Vine
+    - Glow Lichen
+    - Moss Block
+    - Azalea
+    - Spore Blossom
+    - Big Dripleaf
+    - Small Dripleaf
+    - Pitcher Plant
+    - Torchflower
+    - Sunflower
+    - Dandelion
+    - Poppy
+    - Allium
+    - Cornflower
+    - Chorus Flower
+    - Mangrove Propagule
+    - Dead Bush
+    - Pumpkin
+    - Melon
+    - Wheat
+    - Tall Grass
+    - Fern
+
+  Dimension and Location:
+    - Overworld
+    - The Nether
+    - The End
+    - End Island
+    - End City
+    - Nether Portal
+    - End Portal
+    - Spawn Point
+    - Stronghold
+    - Ancient City
+    - Deep Dark
+
+  Status Effect:
+    - Speed
+    - Slowness
+    - Haste
+    - Mining Fatigue
+    - Strength
+    - Instant Health
+    - Instant Damage
+    - Jump Boost
+    - Nausea
+    - Regeneration
+    - Resistance
+    - Fire Resistance
+    - Water Breathing
+    - Invisibility
+    - Blindness
+    - Night Vision
+    - Hunger
+    - Weakness
+    - Poison
+    - Wither
+    - Health Boost
+    - Absorption
+    - Saturation
+    - Glowing
+    - Levitation
+    - Luck
+    - Bad Luck
+    - Slow Falling
+    - Conduit Power
+    - Dolphins Grace
+    - Bad Omen
+    - Hero of the Village
+    - Darkness
+    - Trial Omen
+    - Raid Omen
+    - Wind Charged
+    - Weaving
+    - Oozing
+    - Infested
